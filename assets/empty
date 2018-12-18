@@ -1,1 +1,2 @@
 ##empty
+git rm --cached empty.txt
